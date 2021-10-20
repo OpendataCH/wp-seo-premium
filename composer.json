@@ -1,0 +1,7 @@
+{
+    "name": "opendatach/wp-seo-premium",
+    "type": "wordpress-plugin",
+    "require": {
+        "composer/installers": "~1.0"
+    }
+}
